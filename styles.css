@@ -78,8 +78,9 @@ background-color: #ffffff;
 }
 
 .skills-table{
-width:25%;
-margin:0px 800px;
+  margin-left: auto;
+  margin-right: auto;
+ 
 text-align:left;
 color: #000000;
 font-weight:bolder;
@@ -146,8 +147,9 @@ font-family: 'Montserrat', sans-serif;
 }
 
 .cherry-tree1 {
-    width:20%;
-    transform:scale(0.8);
+  position:relative;
+   bottom: 84px;
+    transform:scale(0.6);
 }
 
 .hand-img {
